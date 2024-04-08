@@ -1,0 +1,23 @@
+{
+  "name": "kefo",
+  "version": "0.0.1",
+  "description": "Kefo feyds ve phrotex tarafından yazılmış bir duo bulma botu!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "feyds",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "croxydb": "^0.0.22",
+    "discord-api-types": "^0.37.1",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^14.6.0",
+    "jsdom": "^24.0.0",
+    "puppeteer": "^21.9.0",
+    "zenrows": "^1.3.2"
+  }
+}
